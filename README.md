@@ -27,7 +27,7 @@ It's fairly functional. Tested working OSes are Windows NT 4.0, various older De
 - 486 CPU (plus a few extra instructions... let's just call it an "enhanced 486" for now)
 - 387-class FPU (ported from Tiny386)
 - ATA/IDE controller
-- BusLogic BT-545S SCSI controller with both hard disk and CD ISO support
+- BusLogic BT-545S SCSI controller with both hard disk and CD ISO support (ported from 86Box)
 - Floppy controller (A bit broken, works in DOS. Linux and NT 4 don't really like it.)
 - VGA graphics
 - Microsoft-compatible serial mouse
