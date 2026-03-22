@@ -21,6 +21,9 @@ It's fairly functional. Tested working OSes are Windows NT 4.0, various older De
 - There is a "-video et4000" option but it's buggy and has issues, so I don't recommend using it yet. Stick with the default "stdvga" card for now.
 - It uses a real 486 era BIOS, so just like back in the day you need to configure IDE disks in BIOS setup.
 - Have a lot of patience. :)
+- Emulated NE2000 is at IO port 0x300, IRQ 7. (If enabled)
+- Emulated BusLogic SCSI default IO port is 0x334. (If enabled)
+- Emulated Sound Blaster is at IO port 0x220, IRQ 5, DMA 1.
 
 ### Features
 
@@ -63,4 +66,3 @@ It's fairly functional. Tested working OSes are Windows NT 4.0, various older De
 ![NHL Hockey 96](screenshots/10-nhl96-2.png)
 
 ![Duke Nukem 3D](screenshots/11-duke3d.png)
-
