@@ -48,12 +48,13 @@ The root password for the Debian sample is "basicbox"
 
 ### To do:
 
-- SPEED OPTIMIZATION! As much as possible at least.
+- SPEED OPTIMIZATION! As much as possible at least. Start with seeing how much improvement there is switching from function calls for opcodes to a huge Select Case.
 - Get Windows 2000 working.
 - Fix IDE issues.
 - Finish user-mode networking module so pcap isn't required.
 - Get ET4000 working correctly.
 - Some GUI config tool.
+- Fix some bits of very ugly code.
 - Fix various other bugs
 
 ### Some screenshots
