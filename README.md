@@ -18,6 +18,8 @@ There are two sample hard disk images available in the release section along wit
 
 There is a FreeDOS sample, and a Debian Potato 2.2 sample. Unzip them into the same folder where you put BasicBox.exe, navigate to that folder in a command prompt and type either run-FreeDOS.bat or run-potato.bat
 
+The root password for the Debian sample is "basicbox"
+
 ### Usage notes:
 
 - BasicBox currently requires you to configure the guest machine from the command line. Launch with -h for a list of options. I plan to have a GUI configuration utility soon.
