@@ -12,6 +12,12 @@ Why would I write an x86 emulator in VB6? It seemed like a fun project. I grew u
 
 It's fairly functional. Tested working OSes are Windows NT 4.0, various older Debian GNU/Linux distributions, and DOS. It can run many DOS games as well. Again, slowly. Games that needed a real 486 are not generally going to be very playable in BasicBox, if at all. This whole project is really more of a proof-of-concept, showing that it's at least possible to emulate a full PC in VB6.
 
+### Sample hard disk images
+
+There are two sample hard disk images available in the release section along with the pre-built BasicBox release.
+
+There is a FreeDOS sample, and a Debian Potato 2.2 sample. Unzip them into the same folder where you put BasicBox.exe, navigate to that folder in a command prompt and type either run-FreeDOS.bat or run-potato.bat
+
 ### Usage notes:
 
 - BasicBox currently requires you to configure the guest machine from the command line. Launch with -h for a list of options. I plan to have a GUI configuration utility soon.
