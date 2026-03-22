@@ -62,7 +62,7 @@ Public Sub Main()
 
     title = STR_TITLE & " v" & STR_VERSION
 
-    debug_log DEBUG_INFO, title & " (c)2025 Mike Chambers" & vbCrLf
+    debug_log DEBUG_INFO, title & " (c)2026 Mike Chambers" & vbCrLf
     debug_log DEBUG_INFO, "[An x86 PC emulator written in Visual Basic 6]" & vbCrLf
     debug_log DEBUG_INFO, vbCrLf
 
