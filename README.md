@@ -24,6 +24,7 @@ It's fairly functional. Tested working OSes are Windows NT 4.0, various older De
 - Emulated NE2000 is at IO port 0x300, IRQ 7. (If enabled)
 - Emulated BusLogic SCSI default IO port is 0x334. (If enabled)
 - Emulated Sound Blaster is at IO port 0x220, IRQ 5, DMA 1.
+- To configure an empty-on-boot SCSI CD drive, for example on SCSI ID 1, use: "-scsi-cd 1 ." then you can change ISOs on the fly from the UI.
 
 ### Features
 
