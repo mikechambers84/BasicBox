@@ -54,9 +54,9 @@ It's fairly functional. Tested working OSes are Windows NT 4.0, various older De
 
 ![VB6 running in NT](screenshots/05-vb6.png)
 
-![Debian GNU/Linux 2.2 Potato](screenshots/07-doom.png)
+![Debian GNU/Linux 2.2 Potato](screenshots/07-debian.png)
 
-![DOOM](screenshots/10.png)
+![DOOM](screenshots/10-doom.png)
 
 ![Mortal Kombat 3](screenshots/08-mk3.png)
 
